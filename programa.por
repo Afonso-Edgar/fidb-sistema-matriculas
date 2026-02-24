@@ -5,6 +5,7 @@ programa
 	{
 		escreva("Sincronizacao com github")
 		escreva("Ja sincronizado?")
+		escreva("Actualizacao remoto")
 
 	}
 }
